@@ -44,8 +44,8 @@ app.use((err, req, res, next) => {
     stack: err.stack,
   });
 });
-
-app.listen(8800, () => {
+const PORT=process.env.PORT;
+app.listen(PORT, () => {
   connect();
-  console.log("Connected to backend.");
+  console.log("Server running at port 5000.");
 });
