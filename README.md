@@ -10,3 +10,4 @@ SouravBooking Backend
 8) Implemented React login authentication using Context API and JWT, ensuring that only authenticated users can access the application. Stored passwords as hash to ensure data privacy.
 
 Technologies: HTML, CSS, Javascript, React, Node.js, Express.js, MongoDB
+![Screenshot (2042)](https://user-images.githubusercontent.com/65517504/229999185-512aa1c6-77b5-4541-a29d-4e06b2f54133.png)
